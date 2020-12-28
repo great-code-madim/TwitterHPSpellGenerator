@@ -1,0 +1,193 @@
+Accio: Summons an object
+Aguamenti: Conjures water
+Alarte Ascendare: Rockets target upward
+Alohomora: Unlocks target
+Anapneo: Clears airway
+Anteoculatia: Grows antlers on head
+Aparecium: Reveals hidden writing
+Appare Vestigium: Reveals traces of magic, including footprints and track marks
+None: Magically transports the caster
+Aqua Eructo: Jet of water
+Arania Exumai: Repels spiders
+Arresto Momentum: Slows or stops target's velocity
+Conjuration: 
+Ascendio: Lifts caster
+Avada Kedavra: Instantaneous death
+Avifors : Transforms the target into a bird.
+Avenseguim: Turns object into tracking device
+Avis: Conjures birds
+Baubillious: Jet of white sparks
+Bombarda: Small explosion
+Bombarda Maxima: Powerful explosion
+Brackium Emendo: Mends bones
+Calvorio: Removes victim's hair
+Cantis: Makes target sing
+Capacious extremis: Increases interior space
+Carpe Retractum: Pull caster towards object, Pull object towards caster
+Transfiguration: 
+Transformation: 
+Cave inimicum: Concealment
+Circumrota: Rotates an object
+Cistem Aperio: Opens chests
+Colloportus: Locks doors
+Colloshoo: Sticks shoes to floor
+Colovaria: Changes colour
+Confringo: Explosion
+Confundo: Confuses the target
+Crinus Muto: Transforms hair
+Crucio: Excruciating pain
+Defodio: Carves through material
+Deletrius: Erases image from Reverse Spell
+Densaugeo: Elongates teeth
+Deprimo: Blasts holes in ground
+Depulso: Sends target away
+Descendo: Lowers target
+Transfiguration: 
+Diffindo: Cuts objects
+Diminuendo: Shrinks objects
+Dissendium: Reveals secret passages
+Draconifors: Turns object into dragon
+Ducklifors: Turns organisms to ducks
+Duro: Turns object to stone
+Transfiguration: 
+Ebublio: Traps target in giant bubble
+Engorgio: Causes swelling
+Engorgio Skullus: Swells head
+Entomorphis: Turns into insect
+Epoximise: Bonds two objects
+Erecto: Erects a structure
+Evanesce: Vanishes objects
+Evanesco: Vanishes things
+Everte Statum: Makes opponent stumble, Causes sharp pain
+Expecto Patronum: Conjures a spirit guardian
+Expelliarmus: Disarms an opponent
+Expulso: Blows things up
+Ferula: Bandages target
+Fianto Duri: Most likely hardens magical shields
+Finestra: Shatters glass
+Finite: Terminates all spell effects
+Flagrante: Causes objects to burn on contact
+Flagrate: Writes in midair
+Flintifors: Turns target into matchboxes
+Flipendo: Knocks target back
+Flipendo: Knocks target back
+Flipendo Tria: More powerful version of Flipendo
+Fumos: Defensive smokescreen
+Fumos Duo: Multiple concealing smokescreens
+Furnunculus: Causes pimples to erupt
+Geminio: Duplicates an object
+Glacius: Freezes target
+Glacius Duo: Freezes the target
+Glacius Tria: Freezes target enemy
+Glisseo: Turns stairs into a slide
+Harmonia Nectere Passus: Repairs Vanishing Cabinets
+Herbifors: Transforms target into flowers
+Herbivicus: Rapidly grows plants
+Homenum Revelio: Reveals human presence
+Illegibilus: Makes text illegible
+Immobulus: Stops movement and actions of the target
+Impedimenta: Hinders movement
+Imperio: Total control over the victim
+Impervius : Waterproofs an object
+Incarcerous: Binds target in ropes
+Incendio: Conjures flames
+Incendio: Conjures flames
+Incendio Tria: Conjures blue flames
+Inflatus: Inflates target
+Informous: Adds to the Folio Bruti
+Locomotor Wibbly: Legs become wobbly
+Lacarnum Inflamari: Ignites cloaks
+Langlock: Sticks tongue to roof of the mouth
+Lapifors: Turns target into rabbit
+Legilimens: Lets caster see into the mind of another person
+Levicorpus: Suspends people by the ankles
+Liberacorpus: Counteracts Levicorpus
+Locomotor: Moves objects in midair
+Locomotor Mortis: Sticks legs together
+Lumos: Illuminates the wand tip
+Lumos Duo: Focused beam of light
+Lumos Maxima: Produces bright light
+Lumos Solem: Produces sunlight
+Magicus Extremos: Temporarily increases casters' spell power
+Melofors: Encases head in pumpkin
+Meteolojinx Recanto: Causes weather effects caused by incantations to cease
+Mimblewimble: Ties tongue in knot
+Mobiliarbus: Levitates wooden things
+Mobilicorpus: Moves bodies
+Molliare: Invisible cushion
+Morsmordre: Conjures Dark Mark
+Mucus ad Nauseam: Nasty cold & runny nose
+Muffliato : Conceals sound
+Multicorfors : Changes clothes
+Mutatio Skullus: Grows extra heads
+Nox: Extinguishes wandlight
+Nebulus: Conjures fog
+Oculus Reparo: Repairs glasses
+Obliviate : Erases memories
+Obscuro: Blindfolds target
+Oppugno : Assaults target with directed object(s)
+Orbis: Sucks the target into the ground
+Orchideous: Conjures flowers
+Oscausi: Seals mouth
+Pack: Packs luggage
+Papyrus Reparo: Mends torn paper
+Charm: 
+Partis Temporus: Parts the target
+Periculum: Burst of red sparks
+Peskipiksi Pesternomi: Nothing (supposedly captures pixies)
+Petrificus Totalus: Temporary Paralysis
+Piertotum Locomotor: Animates target
+Piscifors: Turns target into fish
+Point Me: Wand points due north
+Portus: Turns object into Portkey
+Prior Incantato: Shows the previous spells cast by a wand
+Protego: Reflects spells and blocks physical forces
+Protego Diabolica: Ring of protective black fire that only burns the caster's enemies whilst leaving their allies unharmed
+Protego horribilis: Summons a powerful protective barrier
+Protego Maxima: Summons a large protective barrier
+Protego totalum: Shields an area
+Quietus: Quietens target
+Redactum Skullus: Shrinks head
+Reducio: Shrinks target
+Reducto: Destroys solid objects
+Reparifors: Heals minor magically induced ailments
+Reverte: Returns objects to their original positions or states
+Relashio: Forces target to let go
+Rennervate: Awakens victim
+Reparifarge: Reverses the effects of an incomplete Transformation spell
+Reparo: Fixes broken objects
+Repello Muggletum: Repels Muggles
+Repello Inimicum: Repels enemies. If used with Protego Maxima and Fianto Duri, it disintegrates anything that comes in contact with the barrier.
+Revelio: Reveals secrets about a person or object
+Rictusempra: Tickles and weakens
+Riddikulus: Turns a Boggart into something amusing
+Salvio hexia: Hex deflection
+Scourgify: Cleans objects
+Sectumsempra: Lacerates target
+Serpensortia: Conjures snake
+Silencio: Silences target
+Skurge: Cleans ectoplasm, Frightens ghosts and other spirits
+Slugulus Eructo: Victim vomits slugs
+Sonorus: Loudens target
+Specialis Revelio: Reveals spells cast on objects or potions
+Spongify: Softens objects
+Steleus: Causes target to sneeze
+Stupefy: Knocks out target
+Surgito: Removes enchantments
+Tarantallegra : Sends legs out of control
+Tentaclifors: Turns victim's head into tentacle
+Tergeo: Cleans up objects
+Titillando: Tickles and weakens
+Ventus: Jet of spiralling wind
+Ventus Duo: Creates a stronger jet of wind compared to Ventus
+Vera Verto: Transforms animals into water goblets
+Verdillious: Causes the wand tip to burn like a sparkler whilst damaging the foe.
+Verdimillious: Emits green sparks from the wand that can: Do damage to opponents , Reveal hidden things
+Verdimillious: Emits green sparks from the wand that can: Do damage to opponents , Reveal hidden things
+Vermiculus: Turns things into worms
+Vermillious: Jet of red sparks
+Vipera Evanesca: Vanishes snakes
+Vulnera Sanentur: Slows blood flow, Clears residue, Knits wounds
+Waddiwasi: Propels wad at the target
+Wingardium Leviosa: Makes objects fly
+Episkey: Heals minor injuries
